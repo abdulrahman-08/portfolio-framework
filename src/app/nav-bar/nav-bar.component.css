@@ -1,0 +1,13 @@
+.navbar{
+    background-color: #2C3E50;
+  
+}
+.text-mynav{
+    color: white;
+}
+.wordbg{
+background-color: #1ABC9C;
+}
+nav{
+    transition: 0.6s all;
+}
